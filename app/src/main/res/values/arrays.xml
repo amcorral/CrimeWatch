@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="Districts">
+        <item> INGLESIDE </item>
+        <item> NORTHERN </item>
+        <item> MISSION </item>
+        <item> BAYVIEW </item>
+        <item> TENDERLOIN </item>
+        <item> TARAVAL </item>
+        <item> SOUTHERN </item>
+        <item> PARK </item>
+        <item> CENTRAL </item>
+        <item> RICHMOND </item>
+    </string-array>
+
+</resources>
